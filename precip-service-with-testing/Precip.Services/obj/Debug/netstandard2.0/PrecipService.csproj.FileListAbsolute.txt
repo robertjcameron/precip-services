@@ -1,0 +1,9 @@
+C:\aaa rob\vscode-workspace\precip-service-with-testing\Precip.Services\obj\Debug\netstandard2.0\PrecipService.csprojAssemblyReference.cache
+C:\aaa rob\vscode-workspace\precip-service-with-testing\Precip.Services\obj\Debug\netstandard2.0\PrecipService.csproj.CoreCompileInputs.cache
+C:\aaa rob\vscode-workspace\precip-service-with-testing\Precip.Services\obj\Debug\netstandard2.0\PrecipService.AssemblyInfoInputs.cache
+C:\aaa rob\vscode-workspace\precip-service-with-testing\Precip.Services\obj\Debug\netstandard2.0\PrecipService.AssemblyInfo.cs
+C:\aaa rob\vscode-workspace\precip-service-with-testing\Precip.Services\bin\Debug\netstandard2.0\PrecipService.deps.json
+C:\aaa rob\vscode-workspace\precip-service-with-testing\Precip.Services\bin\Debug\netstandard2.0\PrecipService.dll
+C:\aaa rob\vscode-workspace\precip-service-with-testing\Precip.Services\bin\Debug\netstandard2.0\PrecipService.pdb
+C:\aaa rob\vscode-workspace\precip-service-with-testing\Precip.Services\obj\Debug\netstandard2.0\PrecipService.dll
+C:\aaa rob\vscode-workspace\precip-service-with-testing\Precip.Services\obj\Debug\netstandard2.0\PrecipService.pdb
