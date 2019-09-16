@@ -1,7 +1,7 @@
 # precip-services
 This is a C# project that when given a date, provide a precipitation prediction for that date in zip code 27612.
-If no date is provided, return a precipitation prediction for the current date (via the overloaded method).
-If the date is in the data set, return the actual precipitation for the provided date.
+If no date is provided, it will return a precipitation prediction for the current date (via the overloaded method).
+If the date is in the data set, it will return the actual precipitation for the provided date.
 The value is either the value from the date provided in 27612-precipitation-data.xlsx if the date appears there,
   or an average from 27612-precipitation-data.xlsx of that same date from different years, even if the date provided
   is before those in the set.
